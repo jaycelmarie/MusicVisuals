@@ -1,6 +1,6 @@
 # Music Visualiser Project
 
-Name:
+Name: Alexander Dergach, Jaycel Estrellado, 
 
 Student Number: 
 
@@ -12,6 +12,9 @@ Student Number:
 - Check out the WaveForm and AudioBandsVisual for examples of how to call the Processing functions from other classes that are not subclasses of PApplet
 
 # Description of the assignment
+Welcome to our Music Visualizer Project. This assignment will consist of ??? different visual effects. An interactive menu will be displayed and as the user, you are able to switch through different renders using button clicks. 
+
+First Visual: In the first visual, a distorted circle will be displayed at the center of the screen. Lines are used to construct this circle and there exists a gap in the middle - there are circles within that gap synchronizing with the music. Random generated lines are placed at the top and bottom of the screen and it is also synchronizing with the music- adding a more visualising effect to the program. The background will have a connect-the-dot flower effect on the visual synchonized with the music. Last but not least is the added beams coming from the distorted circle. I think that by adding this randomly generated beams, it creates a more chaotic approach to the visual contrasting with the other visual effects. The visual colour of everything displayed will be randomly generated RGB. 
 
 # Instructions
 
